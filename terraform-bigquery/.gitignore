@@ -4,4 +4,4 @@ terraform.tfstate.backup
 .terraform/
 
 # Ignore sensitive files (if any)
-*.tfvars
+*.tfvars.terraform/
